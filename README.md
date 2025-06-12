@@ -1,5 +1,4 @@
 # Homeopathy-llm-rag
-# 🧠 Homeopathy Chatbot using TinyLlama + FAISS + MiniLM
 
 A symptom-based Homeopathy chatbot built using Retrieval-Augmented Generation (RAG). It uses FAISS for similarity search over Phatak Materia Medica and TinyLlama to generate answers. Powered by MiniLM embeddings and served through Gradio.
 
